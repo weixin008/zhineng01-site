@@ -3,3 +3,13 @@ node_modules/
 dist/
 tmp/
 *.log
+.cache/
+public/
+_site/
+.deploy*/
+.temp/
+.idea/
+.vscode/
+*.bak
+*.tmp
+Thumbs.db
